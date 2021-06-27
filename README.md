@@ -1,8 +1,6 @@
 # TFG_EstacionGolpeAriete
 
-En este repositorio se encuentran los archivos que corresponden a datos de las mediciones, diseños 3D en sketchup, asi como tambien libros y papers utilizados para el
-
-desarrollo de un trabajo final de grado.
+En este repositorio se encuentran los archivos que corresponden a datos de las mediciones, diseños 3D en sketchup, asi como tambien libros y papers utilizados para el desarrollo de un trabajo final de grado.
 
 Institución: Facultad de Ingeniería de la Universidad Nacional de Asunción. Paraguay
 
