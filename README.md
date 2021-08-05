@@ -1,6 +1,6 @@
 # TFG_EstacionGolpeAriete
 
-En este repositorio se encuentran los archivos que corresponden el codigo del programa en PLC desarrollado, datos de las mediciones y diseños 3D en sketchup.
+En este repositorio se encuentran los archivos que corresponden al prototipo desarrollado esto incluye el código del programa en PLC desarrollado, datos de las mediciones y diseños 3D en sketchup.
 
 Institución: Facultad de Ingeniería de la Universidad Nacional de Asunción. Paraguay
 
